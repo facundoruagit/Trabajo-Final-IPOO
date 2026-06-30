@@ -1,6 +1,6 @@
 # Trabajo-Final-IPOO
 Entrega trabajo final
-**Alumnos:** Facundo Rua 
+**Alumnos:** Facundo Rua - Elias Lencina
 
 **Materia:** Introduccion a la Programacion Orientada a Objetos
 
@@ -13,9 +13,4 @@ Este repositorio contiene el codigo del trabajo final que permite diseñar e imp
 - Persistencia mediante ORM
 - Base de datos MariaDB/mySQL
 
-## Archivos incluidos
-- Personajes.php: clase abstracta base
-- Guerrero.php: clase hija de personaje
-- Mago.php: clase hija de personaje
-- Arquero.php: clase hija de personaje
-- Arma.php: clase arma, utilizada por un personaje
+
